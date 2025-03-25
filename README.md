@@ -3,7 +3,8 @@
   </br>
   </br>
   </br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=500&color=be2424&center=true&random=false&height=150&lines=Hi!" alt="hi" />
+  </br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=500&color=c82a2a&center=true&random=false&height=150&lines=Hi!" alt="hi" />
   <br>
   <br>
   <img src="flower.png" width="190" alt="flower"/>

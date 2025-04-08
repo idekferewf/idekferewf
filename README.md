@@ -8,5 +8,5 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&pause=500&color=c82a2a&center=true&random=false&height=150&lines=Hi!" alt="hi" />
   <br>
   <br>
-  <img src="flower.png" width="170" alt="flower"/>
+  <img src="flower-2.png" width="130" alt="flower"/>
 </div>
